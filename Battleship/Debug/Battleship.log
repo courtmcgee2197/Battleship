@@ -1,0 +1,15 @@
+﻿  BattleshipGame.cpp
+c:\users\court\desktop\battleship game\battleshipgame.cpp(13): warning C4930: 'Position pos(void)': prototyped function not called (was a variable definition intended?)
+c:\users\court\desktop\battleship game\battleshipgame.cpp(9): warning C4930: 'Ocean ocean(void)': prototyped function not called (was a variable definition intended?)
+  BattleshipGrid.cpp
+  BattleshipPlayer.cpp
+c:\users\court\desktop\battleship game\battleshipplayer.cpp(10): warning C4930: 'BattleshipGrid grid(void)': prototyped function not called (was a variable definition intended?)
+c:\users\court\desktop\battleship game\battleshipplayer.cpp(11): warning C4930: 'Ocean ocean(void)': prototyped function not called (was a variable definition intended?)
+  Boat.cpp
+  Driver.cpp
+  Ocean.cpp
+c:\users\court\desktop\battleship game\ocean.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Position.cpp
+  Generating Code...
+c:\users\court\desktop\battleship game\battleshipgrid.cpp(64): warning C4715: 'BattleshipGrid::boatInitial': not all control paths return a value
+  Battleship.vcxproj -> C:\Users\Court\Source\Repos\Battleship\Debug\Battleship.exe
